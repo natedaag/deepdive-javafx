@@ -23,6 +23,11 @@
 		  			bottom="25" />
 		  </padding>
 		  
+		  <columnConstraints>
+		  	columnConstraints percentWidth="50.0" />
+		  	columnConstraints percentHeight="20.0" />
+		  </columnConstraints>
+		  
 		  <Text 
 		  		text="Welcome!!" 
 		  		id="welcome-message"
